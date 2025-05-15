@@ -22,18 +22,24 @@ The project explores how SIEM systems can be used to detect malicious behaviour 
 
  📁 Repository Structure
 SIEM-Threat-Detection-Dissertation/
-├── README.md ← Project overview & objectives
-├── docs/ ← Proposal, literature review, draft chapters
-├── data/ ← Sample logs or datasets (anonymised or simulated)
-├── scripts/ ← Signature detection, preprocessing, ML training
-├── notebooks/ ← Jupyter notebooks for ML experiments
-├── results/ ← Output graphs, accuracy metrics, confusion matrices
-├── final/ ← Final dissertation PDF (when complete)
 
+ README.md ← Project overview & objectives
+
+docs/ ← Proposal, literature review, draft chapters
+
+data/ ← Sample logs or datasets (anonymised or simulated)
+
+scripts/ ← Signature detection, preprocessing, ML training
+
+notebooks/ ← Jupyter notebooks for ML experiments
+
+results/ ← Output graphs, accuracy metrics, confusion matrices
+
+final/ ← Final dissertation PDF (when complete)
 
 ---
 
-## 🧠 Key Themes
+🧠 Key Themes
 
 - SIEM (Security Information & Event Management)
 - Signature-based detection (e.g., Snort rules, rule engines)
@@ -44,7 +50,7 @@ SIEM-Threat-Detection-Dissertation/
 
 ---
 
-## 📅 Timeline Milestones
+📅 Timeline Milestones
 
 | Stage | Status | Description |
 |-------|--------|-------------|
